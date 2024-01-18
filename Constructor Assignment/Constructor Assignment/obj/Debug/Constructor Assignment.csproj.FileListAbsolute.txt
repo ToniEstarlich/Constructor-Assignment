@@ -1,0 +1,7 @@
+C:\Users\Antonio Estarlich\Desktop\Basic_C#_Programs\Constructor Assignment\Constructor Assignment\obj\Debug\Constructor Assignment.csproj.AssemblyReference.cache
+C:\Users\Antonio Estarlich\Desktop\Basic_C#_Programs\Constructor Assignment\Constructor Assignment\obj\Debug\Constructor Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Antonio Estarlich\Desktop\Basic_C#_Programs\Constructor Assignment\Constructor Assignment\bin\Debug\Constructor Assignment.exe.config
+C:\Users\Antonio Estarlich\Desktop\Basic_C#_Programs\Constructor Assignment\Constructor Assignment\bin\Debug\Constructor Assignment.exe
+C:\Users\Antonio Estarlich\Desktop\Basic_C#_Programs\Constructor Assignment\Constructor Assignment\bin\Debug\Constructor Assignment.pdb
+C:\Users\Antonio Estarlich\Desktop\Basic_C#_Programs\Constructor Assignment\Constructor Assignment\obj\Debug\Constructor Assignment.exe
+C:\Users\Antonio Estarlich\Desktop\Basic_C#_Programs\Constructor Assignment\Constructor Assignment\obj\Debug\Constructor Assignment.pdb
